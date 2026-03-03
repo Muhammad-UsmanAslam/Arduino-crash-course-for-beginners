@@ -14,7 +14,6 @@
 | 📊 Difficulty     | Beginner (Zero Experience)  |
 | ⏱️ Duration       | 8–12 Hours                  |
 | 🌐 Language       | Simple English              |
-| 📄 Format         | Microsoft Word (.docx)      |
 
 ---
 
